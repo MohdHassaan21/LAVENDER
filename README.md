@@ -27,7 +27,7 @@ STEP 3: Open the terminal inside VS Code .
    → present on the navbar 
    → click on new terminal, then on the dropdown arrow next to the +  
    → select COMMAND PROMPT 
-STEP 4: Make sure you are inside the correct project directory (the folder where package.json exists).
+STEP 4: Make sure you are inside the correct project directory (the folder where package.json exists). Click on the name of the project(eg teamproj) while opening terminal window and type 'cd od-genie'.
 STEP 5: RUN  'npm install' ,this installs all required libraries (Tailwind, etc.).
 STEP 6: In the same terminal, RUN  'npm run dev' 
 STEP 7: You’ll see something like : 
@@ -53,6 +53,9 @@ Makes the process more fun and interactive.
 Current Progress Status : We are finished with a chatbot which has saved entries and their od schedules and we are yet to work on real time input entries and their schedules.
 
 The technologies/tools used in the prototype are : chatgpt ,Emmergent , vs-code , vite , markup languages , JavaScript .
+
+Screenshots : [text](https://drive.google.com/drive/folders/1MF6cJMxJD2KsZNjvXyoGXf4PZUcBhtSR?usp=sharing)
+
 
 Contributions : We welcome contributions! Feel free to fork the repo, make improvements, and submit a pull request
 Reporting bugs
